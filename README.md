@@ -1,0 +1,2 @@
+# shifting-palette
+This is the result of a COVID-19 hobby project, that started with me reading up on high-color modes on early Amigas and the unofficial high-color mode on the Atari ST.  I had a Tandy 1000 as a kid and these other machines made me wonder: how would Tandy have built an indexed-color machine, and how would they have pushed the hardware capabilities further?  It attempts to do something realistic without restraining itself to what real hardware could do.
